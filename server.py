@@ -2,7 +2,7 @@ import socket, time, sys
 import select
 
 HEADER_LENGTH = 10
-IP = "127.0.0.1"
+IP = "10.0.0.94"
 PORT = 8080
 
 server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)

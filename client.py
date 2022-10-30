@@ -5,7 +5,7 @@ import errno
 
 HEADER_LENGTH = 10
 
-IP = "127.0.0.1"
+IP = "10.0.0.94"
 PORT = 8080
 
 my_username = input("Username: ")
